@@ -15,3 +15,6 @@ The next code is used to save the resulting file of exclusively all the article 
 
 ## Final used section, starts with Step 2: Define the file path
 This code changes the article urls to be a list without any whitespace, then every single URL is looped through and the contents of the paragraphs are saved to a new file so it can be used to train the model.
+
+# To Use:
+If you want to test this, the file paths will need to be changed to where your version of the CNNHTML folder resides, where to save the resulting test.txt, and then where to access test.txt.
